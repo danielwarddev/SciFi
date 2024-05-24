@@ -1,5 +1,5 @@
 {
-  "app": "dotnet run --project src/SciFi/SciFi.csproj",
+  "app": "dotnet run --project src/SciFi.Infrastructure/SciFi.Infrastructure.csproj",
   "watch": {
     "include": [
       "**"
